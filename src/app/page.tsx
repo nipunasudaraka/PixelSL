@@ -54,7 +54,7 @@ export default function Home() {
             Transform your design journey
           </p>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 mt-20 max-w-8xl">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 mt-32 max-w-7xl">
             <Card />
             <Card />
             <Card />
